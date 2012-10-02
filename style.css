@@ -1,0 +1,44 @@
+html, body {
+	background-color: black;
+}
+
+#mainlink {
+	width: 500px;
+	margin: auto;
+	text-align: center;
+	margin-top: 250px;
+}
+
+#mainlink a {
+	color: white;
+	text-decoration: none;
+	font-family: Arial, Calibri;
+	font-size: 46px;
+}
+
+#name {
+	width: 25%;
+	float: right;
+	margin-top: 30px;
+	margin-bottom: 10px;
+}
+
+#band_pic {
+	clear: both;
+	width: 100%;
+	border-top: 3px solid white;
+	border-bottom: 3px solid white;
+}	
+
+#link {
+	text-align: right;
+	margin-top: 20px;
+	padding-right: 35px;
+	margin-bottom: 40px;	
+}
+
+#link a {
+	color: white;
+	font-family: Arial;
+	font-weight: bold;
+	text-decoration: none;
